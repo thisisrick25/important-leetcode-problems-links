@@ -1,3 +1,5 @@
+**This repository contains curated list of helpful links and also collections of important leetcode questions. :)**
+
 # Helpful Links
 
 * https://leetcode.com/discuss/interview-experience/1188173/Facebook-or-E5-MLE-or-New-York-offer-%2B-comprehensive-study-guide
